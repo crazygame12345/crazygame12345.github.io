@@ -1,0 +1,68 @@
+.para1{font-size: 0; text-align:left; padding-bottom:11px; margin-top:0px; padding-top:0px;}
+.Style2{font-family:  'Arial-BoldMT', 'Arial' ,sans-serif ;
+ font-size: 17px; 
+ font-weight:700; 
+ color: #FEFFFF;
+ word-wrap: break-word;}
+.para3{font-size: 0; text-align:center; padding-bottom:0px; margin-top:0px; padding-top:0px;}
+.Style4{font-family:  'ArialMT', 'Arial' ,sans-serif ;
+ font-size: 27px; 
+ color: #FEFFFF;
+ word-wrap: break-word;}
+.Style5{font-family:  'ArialMT', 'Arial' ,sans-serif ;
+ font-size: 18px; 
+ color: #FEFFFF;
+ word-wrap: break-word;}
+.Style6{font-family:  'ArialMT', 'Arial' ,sans-serif ;
+ font-size: 15px; 
+ color: #FEFFFF;
+ word-wrap: break-word;}
+.para7{font-size: 0; text-align:center; padding-bottom:11px; margin-top:0px; padding-top:0px;}
+.Style8{font-family:  'Helvetica' ,sans-serif ;
+ font-size: 24px; 
+ color: #FEFEFE;
+ word-wrap: break-word;}
+.Style9{font-family:  'Helvetica' ,sans-serif ;
+ font-size: 18px; 
+ word-wrap: break-word;}
+.Style10{font-family:  'Helvetica' ,sans-serif ;
+ font-size: 18px; 
+ color: #FEFEFE;
+ word-wrap: break-word;}
+.Style11{font-family:  'Helvetica' ,sans-serif ;
+ font-size: 17px; 
+ color: #FEFEFE;
+ word-wrap: break-word;}
+.Style12{font-family:  'Helvetica' ,sans-serif ;
+ font-size: 17px; 
+ color: #FEFFFF;
+ word-wrap: break-word;}
+.Style13{font-family:  'Helvetica' ,sans-serif ;
+ font-size: 17px; 
+ word-wrap: break-word;}
+.Style14{font-family:  'ArialMT', 'Arial' ,sans-serif ;
+ font-size: 17px; 
+ word-wrap: break-word;}
+.para15{font-size: 0; text-align:left; padding-bottom:0px; margin-top:0px; padding-top:0px;}
+.Style16{font-family:  'Helvetica' ,sans-serif ;
+ font-size: 15px; 
+ word-wrap: break-word;}
+.Style17{font-family:  'Helvetica' ,sans-serif ;
+ font-size: 24px; 
+ word-wrap: break-word;}
+.Style18{font-family:  'Helvetica' ,sans-serif ;
+ font-size: 18px; 
+ margin:0;
+ word-wrap: break-word;}
+.para19{font-size: 0; text-align:left; padding-bottom:12px; margin-top:0px; padding-top:0px;}
+.linkStyle_20{font-family:  'Helvetica' ,sans-serif ;
+ font-size: 18px; 
+ color: #0432FF;
+ text-decoration: underline; 
+ /* 0 0 0 #00F900 #0432FF #FF2600 */
+ word-wrap: break-word;}
+.linkStyle_20:visited{color:#0432FF; text-decoration:underline;}
+.linkStyle_20:hover{color:#FF2600; text-decoration:underline;}
+a.outerlink{text-decoration:none}
+.animhidden{opacity: 0}
+.animvisible{opacity: 1}
